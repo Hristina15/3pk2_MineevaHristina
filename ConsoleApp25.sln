@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ПЗ_7", "ПЗ_7\ПЗ_7.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПЗ_6", "ПЗ_6\ПЗ_6.csproj", "{1748D85F-93F7-450D-80E1-7A79877CAE9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПЗ_5", "ПЗ_5\ПЗ_5.csproj", "{DE48628C-6CDB-45F0-B969-97B3356ED0FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ПЗ_5", "ПЗ_5\ПЗ_5.csproj", "{DE48628C-6CDB-45F0-B969-97B3356ED0FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПЗ_10", "..\WpfApp\WpfApp\ПЗ_10.csproj", "{28DB0E22-84ED-4D9E-8CDF-2805BE00315D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DE48628C-6CDB-45F0-B969-97B3356ED0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE48628C-6CDB-45F0-B969-97B3356ED0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE48628C-6CDB-45F0-B969-97B3356ED0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28DB0E22-84ED-4D9E-8CDF-2805BE00315D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DB0E22-84ED-4D9E-8CDF-2805BE00315D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DB0E22-84ED-4D9E-8CDF-2805BE00315D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DB0E22-84ED-4D9E-8CDF-2805BE00315D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
