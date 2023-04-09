@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПЗ_6", "ПЗ_6\ПЗ_6.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ПЗ_5", "ПЗ_5\ПЗ_5.csproj", "{DE48628C-6CDB-45F0-B969-97B3356ED0FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПЗ_10", "..\WpfApp\WpfApp\ПЗ_10.csproj", "{28DB0E22-84ED-4D9E-8CDF-2805BE00315D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПЗ_10", "ПЗ_10\ПЗ_10.csproj", "{28DB0E22-84ED-4D9E-8CDF-2805BE00315D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
